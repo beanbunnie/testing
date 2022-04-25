@@ -1,1 +1,1 @@
-<?php Hello, this is the header. ?>
+<?php echo "Hello, this is the header." ?>
